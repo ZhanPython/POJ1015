@@ -1,4 +1,4 @@
-# POJ1015
+# POJ1015_Jury Compromise
 Dynamic programming,DP
 In Frobnia, a far-away country, the verdicts in court trials are determined by a jury consisting of members of the general public.
 
